@@ -16,6 +16,8 @@ There are many data sources available at [NYU Libraries' Data Services division]
 
 Save the original raw data file of your choice into the `data` directory.
 
+We got the data from [here](https://www.bea.gov/news/2023/personal-income-county-and-metropolitan-area-2022)
+
 ## Jupyter Notebook
 
 Use [JupyterLab](http://jupyterlab.io/) to open the Jupyter Notebook named [analysis.ipynb](./analysis.ipynb). You will import the data file and do all the data munging, analysis, and visualization within this notebook.
